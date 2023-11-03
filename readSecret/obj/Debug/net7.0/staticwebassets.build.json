@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DXN8F3wKG4AMNW3EAv+yewoJIRtfC5QFjMnewat0bz0=",
+  "Source": "readSecret",
+  "BasePath": "_content/readSecret",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
