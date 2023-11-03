@@ -25,7 +25,7 @@ namespace readSecret.Controllers
         public async void ReadSecreKey()
         {
             var secretValue = await _secretClient.GetSecretAsync("myKey");
-            _logger.LogInformation($"secret value - {secretValue.Value.Value}");
+            _logger.LogInformation($"secret value from azure - {secretValue.Value.Value}");
         }
 
         [HttpGet(Name = "GetWeatherForecast")]
