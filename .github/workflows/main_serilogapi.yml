@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'serilogApi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_716FF989D7144288B4C37BF2D403AC18 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED603DC761A64009A1202561BF733BA3 }}
           package: .
